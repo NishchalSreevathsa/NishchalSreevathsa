@@ -105,10 +105,3 @@ I enjoy solving complex security challenges, building detection tools, and shari
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-ff4757?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NishchalS)
 
 ---
-
-## 📈 GitHub Stats
-
-![Nishchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishchalSreevathsa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalSreevathsa&layout=compact&theme=tokyonight)
-
