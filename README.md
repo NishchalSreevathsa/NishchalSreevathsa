@@ -47,6 +47,58 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ---
 
+---
+
+## ⚡ Projects
+
+- [Fresh Connections Grocery Chain Networks](https://github.com/NishchalSreevathsa/FreshConnections-Grocery-chain-Networks)  
+  Designed a secure, high-availability network using OSPF, DMZ, ASA Firewalls, IDS/IPS, VPNs, VLANs, and AI-based threat detection, improving uptime by 30%.
+
+- Hypervisor-Based Secure Windows Environment Simulation  
+  Created and hardened a multi-tiered Windows environment with domain policies, WSUS, IIS, PowerShell, and NTFS security.
+
+- [Simulated Campus Network Penetration Testing](https://github.com/NishchalSreevathsa/Ethical_Hacking_Projects)  
+  Performed penetration testing with tools like Metasploit, Burp Suite, Kali Linux, exploiting SQL injection, XSS, and CSRF vulnerabilities.
+
+- [IntelliHome IoT-Based Smart Living Automation](https://github.com/NishchalSreevathsa/Intellihome-Advancing-Smart-Living-through-IoT-Based-Home-Automation)  
+  Architected an IoT smart home system that increased energy efficiency by 30% and reduced energy costs by 25%.
+
+- [Securing Cloud Infrastructure with AWS IAM](https://github.com/NishchalSreevathsa/Cloud-Security-Project)  
+  Developed scalable AWS IAM architecture for secure intern onboarding under least-privilege principles.
+
+---
+
+## 🛡️ TryHackMe Badges
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/NishchalS.png)
+
+### Blue Teaming Milestones
+- Just have to deal with it
+- The Course Awakens
+- Shield Apprentice
+- Skilled Navigator
+- Terminated!
+
+### Red Teaming Milestones
+- Metasploitable
+- Pentesting Principles
+- Blue
+- Burp'ed
+
+### Foundations Milestones
+- Networking Nerd
+- World Wide Web
+- Webbed
+- cat linux.txt
+- Sword Apprentice
+- Cyber Ready
+
+### Miscellaneous
+- Calculated Risk
+- Introduction to Security Engineering
+
+---
+
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/NishchalSreevathsa)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchal-s/)  
