@@ -16,6 +16,17 @@ I enjoy solving complex security challenges, building detection tools, and shari
 ---
 
 ## 💼 Work Experience
+### Amby, Inc (Surge.Build) 
+*Blockchain Security Engineer* | Nov 2025 – Feb 2026  
+- Own end-to-end security and compliance for a Bitcoin-native credit line platform at an early-stage startup.
+- Audited smart contracts and remediated 10+ vulnerabilities including reentrancy, logic errors, and access control flaws.
+- Conduct mobile application penetration testing on the Surge Credit app using Kali Linux, Genymotion, Metasploit, Burp Suite, and OWASP MASVS, identifying auth, API, and data leakage risks.
+- Designed and deployed Wazuh SIEM integrated with Google Cloud Platform, onboarding 25+ log sources across firewall, endpoint, and cloud layers to achieve full network and system visibility.
+- Built comprehensive threat models using OWASP Threat Dragon, mapping assets, trust boundaries, and threat scenarios across blockchain, mobile, backend, and cloud layers.
+- Hardened cloud networking components implementing least-privilege IAM, ACLs, and DMZ architecture aligned with CIS Controls v8 and NIST CSF, reduced attack surface across 3 production environments.
+- Led secure code reviews and GitHub Advanced Security scans including SAST (Semgrep), OWASP MASVS secret detection (Gitleaks), and dependency analysis and resolved 20+ exposed API keys and secrets.
+- Support regulatory and privacy compliance initiatives including GDPR, CCPA/CPRA, and FinCEN, translating requirements into technical and operational controls.
+- Evaluated 50+ threat data feeds, defined false positive control strategies, and authored operational runbooks enabling consistent 24x7 miscategorization coverage.
 
 ### Ambrosia Systems Inc  
 *Cybersecurity Analyst Intern* | Sep 2024 – Jun 2025  
