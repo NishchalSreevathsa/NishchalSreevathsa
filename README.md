@@ -29,20 +29,29 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Evaluated 50+ threat data feeds, defined false positive control strategies, and authored operational runbooks enabling consistent 24x7 miscategorization coverage.
 
 ### Ambrosia Systems Inc  
-*Cybersecurity Analyst Intern* | Sep 2024 – Jun 2025  
-- Delivered 24x7 SOC monitoring leveraging SIEM (Splunk, ELK), EDR (CrowdStrike, Microsoft Defender ATP), and NSM solutions to detect, triage, and respond to threats in healthcare IoT environments.  
-- Created custom SIEM dashboards and correlation rules, increasing visibility into anomalies and MITRE ATT&CK-mapped TTPs.  
+*Cybersecurity Analyst* | Sep 2024 – Jun 2025  
+- Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
+- Executed endpoint containment using CrowdStrike and Microsoft Defender EDR, reducing attacker dwell time and preventing lateral escalation across 200+ endpoints.
+- Monitored multi-source logs to detect anomalous traffic patterns and intrusion attempts, mapped findings to MITRE ATT&CK TTPs and triaged IOCs through structured incident workflows, reducing mean investigation time by 30%.
+- Conducted vulnerability scans with Nessus and Qualys and drove patch compliance from 72% to 97% through systematic triage, remediation guidance, and stakeholder reporting.
+- Investigated network-based attacks including lateral movement, BGP anomalies, and TCP/UDP-layer threats; performed Wireshark packet capture analysis to identify attack paths and IOCs.
 - Automated alert enrichment using Python scripts and RegEx parsing, cutting false positives by 20% and improving MTTD/MTTR.
 
 ### IQ4  
-*Cybersecurity Analyst Apprenticeship* | Oct 2022 – Jan 2023  
-- Performed risk analysis, threat hunting, and vulnerability management using Splunk and simulated incident response exercises mapped to MITRE ATT&CK.  
-- Delivered detailed documentation on threat scenarios and response actions.
+*Cybersecurity Analyst Apprenticeship* | Oct 2022 – Jan 2023   
+- Performed breach analysis and mapped mitigations to NIST CSF and ISO 27001 controls; authored incident response playbooks and tabletop simulation reports adopted by the operations team.
+- Conducted third-party risk assessments and vendor security reviews.
+- Analyzed packet captures using Wireshark to identify lateral movement and suspicious DNS queries and attack paths; submitted structured IOC reports to the threat intelligence pipeline.
+- Researched emerging threat actor TTPs and mapped them to MITRE ATT&CK Framework and Lockheed Kill Chain to support threat data labelling and ML model training.
 
 ### Cerner Corporation  
 *Delivery Consultant* | Aug 2021 – Jul 2022  
-- Conducted security testing and ensured HIPAA compliance of EHR systems.  
-- Troubleshot build issues and resolved 90% of post-deployment issues within 24 hours.
+- Conducted security testing and ensured HIPAA compliance of EHR systems.
+- Performed security testing (regression, UAT, edge-case) to ensure EHR platform compliance with HIPAA.
+- Coordinated configuration and patch management activities, reducing misconfiguration incidents.
+- Supported go-live and post-deployment triage, resolving 90% of critical issues within 24 hours.
+- Led root-cause analysis and SQL fixes to improve build stability to 98%.
+- Collaborated with technical support to resolve production network and system incidents.
 
 ### Aum Infotech Pvt Ltd  
 *Software Engineer Intern* | Mar 2020 – Apr 2021  
