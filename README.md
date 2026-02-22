@@ -17,7 +17,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ## 💼 Work Experience
 ### Amby, Inc (Surge.Build) 
-*Blockchain Security Engineer* | Nov 2025 – Feb 2026  
+*Blockchain Security Engineer* | Nov 2025 – Present 
 - Own end-to-end security and compliance for a Bitcoin-native credit line platform at an early-stage startup.
 - Audited smart contracts and remediated 10+ vulnerabilities including reentrancy, logic errors, and access control flaws.
 - Conduct mobile application penetration testing on the Surge Credit app using Kali Linux, Genymotion, Metasploit, Burp Suite, and OWASP MASVS, identifying auth, API, and data leakage risks.
