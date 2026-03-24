@@ -53,9 +53,14 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Led root-cause analysis and SQL fixes to improve build stability to 98%.
 - Collaborated with technical support to resolve production network and system incidents.
 
-### Aum Infotech Pvt Ltd  
-*Software Engineer Intern* | Mar 2020 – Apr 2021  
-- Developed chatbot workflows enhancing user experience and reducing resolution time by 35%.
+### Benson Service  
+*Software Engineer Intern* | Aug 2029 – Jul 2021  
+- Implemented API rate limiting and input validation mechanisms, improving application security and reducing exposure to common web threats including injection attacks and unauthorized requests.
+- Developed and maintained responsive web application components using HTML, CSS, JavaScript, and XAMPP with MySQL databases and REST APIs, supporting dynamic application functionality.
+- Configured DNS records and domain settings for web application deployment, supporting reliable access and improving domain resolution and service availability.
+- Assisted in cloud-based application deployment and environment configuration, supporting development and testing workflows for multiple web application modules.
+- Conducted manual and regression testing across multiple release cycles, identifying critical defects prior to deployment and improving overall application stability.
+
 
 ---
 
