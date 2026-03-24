@@ -9,36 +9,43 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ## 🎓 Education
 - **Master of Science in Cybersecurity of Networks**  
-  University of New Haven, Aug 2022 – May 2024
+  University of New Haven - Dean Scholarship Recipient • TCOE Outstanding Service Award in Cybersecurity & Networks 
 - **Bachelor of Engineering in Information Science and Engineering**  
-  Visvesvaraya Technological University, Aug 2017 – Jul 2021
+  Visvesvaraya Technological University
 
 ---
 
 ## 💼 Work Experience
 ### Amby, Inc (Surge.Build) 
 *Blockchain Security Engineer* | Nov 2025 – Present 
-- Own end-to-end security and compliance for a Bitcoin-native credit line platform at an early-stage startup.
-- Audited smart contracts and remediated 10+ vulnerabilities including reentrancy, logic errors, and access control flaws.
-- Conduct mobile application penetration testing on the Surge Credit app using Kali Linux, Genymotion, Metasploit, Burp Suite, and OWASP MASVS, identifying auth, API, and data leakage risks.
-- Designed and deployed Wazuh SIEM integrated with Google Cloud Platform, onboarding 25+ log sources across firewall, endpoint, and cloud layers to achieve full network and system visibility.
-- Built comprehensive threat models using OWASP Threat Dragon, mapping assets, trust boundaries, and threat scenarios across blockchain, mobile, backend, and cloud layers.
-- Hardened cloud networking components implementing least-privilege IAM, ACLs, and DMZ architecture aligned with CIS Controls v8 and NIST CSF, reduced attack surface across 3 production environments.
-- Led secure code reviews and GitHub Advanced Security scans including SAST (Semgrep), OWASP MASVS secret detection (Gitleaks), and dependency analysis and resolved 20+ exposed API keys and secrets.
-- Support regulatory and privacy compliance initiatives including GDPR, CCPA/CPRA, and FinCEN, translating requirements into technical and operational controls.
-- Evaluated 50+ threat data feeds, defined false positive control strategies, and authored operational runbooks enabling consistent 24x7 miscategorization coverage.
+- Owned end-to-end security for a Bitcoin-native credit line product spanning smart contracts, mobile apps, backend APIs, and cloud infrastructure across 3 production environments.
+- Audited smart contracts and remediated 10+ critical vulnerabilities — reentrancy flaws, logic errors, and access control bypasses — eliminating high-severity exploit paths before launch.
+- Designed and deployed Wazuh SIEM integrated with GCP, onboarding 25+ log sources across firewall, endpoint, and cloud layers to achieve full-stack network visibility.
+- Hardened GCP networking with least-privilege IAM, ACLs, and DMZ architecture aligned with CIS Controls v8 and NIST CSF; measurably reduced attack surface across all 3 environments.
+- Conducted mobile penetration testing on the Surge Credit app (Kali Linux, Genymotion, Metasploit, Burp Suite, OWASP MAS); uncovered and remediated auth bypass, API abuse, and data leakage risks.
+- Led secure code reviews and GitHub Advanced Security scans (Semgrep SAST, Gitleaks secret detection); resolved 20+ exposed API keys and hardcoded secrets before they reached production.
+- Built STRIDE/PASTA threat models via OWASP Threat Dragon across blockchain, mobile, backend, and cloud layers; authored operational runbooks enabling 24x7 SOC coverage.
+- Evaluated 50+ threat feeds, defined false positive reduction strategies, and implemented RAG pipelines + MCP agents enabling analysts to query threat intelligence via natural language.
+- Supported GDPR, CCPA/CPRA, and FinCEN compliance requirements across the platform.
+
+### A3 Tech Solutions LLC  
+*Cybersecurity Analyst* | Jun 2024 – Oct 2025
+- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
+- Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
+- Assisted in incident response exercises and resolved misconfigured systems impacting logging and monitoring visibility, strengthening overall detection posture.
 
 ### Ambrosia Systems Inc  
 *Cybersecurity Analyst* | Sep 2024 – Jun 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
-- Executed endpoint containment using CrowdStrike and Microsoft Defender EDR, reducing attacker dwell time and preventing lateral escalation across 200+ endpoints.
-- Monitored multi-source logs to detect anomalous traffic patterns and intrusion attempts, mapped findings to MITRE ATT&CK TTPs and triaged IOCs through structured incident workflows, reducing mean investigation time by 30%.
-- Conducted vulnerability scans with Nessus and Qualys and drove patch compliance from 72% to 97% through systematic triage, remediation guidance, and stakeholder reporting.
-- Investigated network-based attacks including lateral movement, BGP anomalies, and TCP/UDP-layer threats; performed Wireshark packet capture analysis to identify attack paths and IOCs.
-- Automated alert enrichment using Python scripts and RegEx parsing, cutting false positives by 20% and improving MTTD/MTTR.
+- Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
+- Built and tuned Splunk dashboards with optimized log parsing and correlation rules, reducing false positive volume across multi-source pipelines and improving detection accuracy.
+- Mapped all findings to MITRE ATT&CK TTPs and triaged IOCs via structured workflows, cutting mean investigation time by 30% and accelerating analyst response.
+- Analyzed Nessus and Qualys scanner outputs; briefed leadership on security posture and guided engineering on CVSS-based remediation priority for medical device integrations.
+- Executed endpoint containment using CrowdStrike and Microsoft Defender EDR, reducing attacker dwell time and halting lateral escalation across 200+ endpoints.
+- Investigated lateral movement, BGP anomalies, and TCP/UDP-layer threats via Wireshark packet analysis; ensured HIPAA-aligned logging practices.
 
 ### IQ4  
-*Cybersecurity Analyst Apprenticeship* | Oct 2022 – Jan 2023   
+*Cybersecurity Analyst Internship* | Oct 2022 – Jan 2023   
 - Performed breach analysis and mapped mitigations to NIST CSF and ISO 27001 controls; authored incident response playbooks and tabletop simulation reports adopted by the operations team.
 - Conducted third-party risk assessments and vendor security reviews.
 - Analyzed packet captures using Wireshark to identify lateral movement and suspicious DNS queries and attack paths; submitted structured IOC reports to the threat intelligence pipeline.
@@ -60,8 +67,6 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Configured DNS records and domain settings for web application deployment, supporting reliable access and improving domain resolution and service availability.
 - Assisted in cloud-based application deployment and environment configuration, supporting development and testing workflows for multiple web application modules.
 - Conducted manual and regression testing across multiple release cycles, identifying critical defects prior to deployment and improving overall application stability.
-
-
 ---
 
 ## 🏅 Certifications
