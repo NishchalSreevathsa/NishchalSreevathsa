@@ -26,23 +26,20 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Led secure code reviews and GitHub Advanced Security scans (Semgrep SAST, Gitleaks secret detection); resolved 20+ exposed API keys and hardcoded secrets before they reached production.
 - Built STRIDE/PASTA threat models via OWASP Threat Dragon across blockchain, mobile, backend, and cloud layers; authored operational runbooks enabling 24x7 SOC coverage.
 - Evaluated 50+ threat feeds, defined false positive reduction strategies, and implemented RAG pipelines + MCP agents enabling analysts to query threat intelligence via natural language.
+- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
 - Supported GDPR, CCPA/CPRA, and FinCEN compliance requirements across the platform.
 
-### A3 Tech Solutions LLC  
-*Cybersecurity Analyst* | Jun 2024 – Oct 2025
-- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
-- Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
-- Assisted in incident response exercises and resolved misconfigured systems impacting logging and monitoring visibility, strengthening overall detection posture.
-
 ### Ambrosia Systems Inc  
-*Cybersecurity Analyst* | Sep 2024 – Jun 2025  
+*Cybersecurity Analyst* | Sep 2024 – Oct 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
 - Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
+- - Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, reducing false positive volume across multi-source pipelines and improving detection accuracy.
 - Mapped all findings to MITRE ATT&CK TTPs and triaged IOCs via structured workflows, cutting mean investigation time by 30% and accelerating analyst response.
 - Analyzed Nessus and Qualys scanner outputs; briefed leadership on security posture and guided engineering on CVSS-based remediation priority for medical device integrations.
 - Executed endpoint containment using CrowdStrike and Microsoft Defender EDR, reducing attacker dwell time and halting lateral escalation across 200+ endpoints.
 - Investigated lateral movement, BGP anomalies, and TCP/UDP-layer threats via Wireshark packet analysis; ensured HIPAA-aligned logging practices.
+- Assisted in incident response exercises and resolved misconfigured systems impacting logging and monitoring visibility, strengthening overall detection posture.
 
 ### IQ4  
 *Cybersecurity Analyst Internship* | Oct 2022 – Jan 2023   
