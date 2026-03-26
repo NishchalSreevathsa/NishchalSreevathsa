@@ -33,7 +33,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 *Cybersecurity Analyst* | Sep 2024 – Oct 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
 - Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
-- - Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
+- Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, reducing false positive volume across multi-source pipelines and improving detection accuracy.
 - Mapped all findings to MITRE ATT&CK TTPs and triaged IOCs via structured workflows, cutting mean investigation time by 30% and accelerating analyst response.
 - Analyzed Nessus and Qualys scanner outputs; briefed leadership on security posture and guided engineering on CVSS-based remediation priority for medical device integrations.
