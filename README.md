@@ -26,11 +26,17 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Led secure code reviews and GitHub Advanced Security scans (Semgrep SAST, Gitleaks secret detection); resolved 20+ exposed API keys and hardcoded secrets before they reached production.
 - Built STRIDE/PASTA threat models via OWASP Threat Dragon across blockchain, mobile, backend, and cloud layers; authored operational runbooks enabling 24x7 SOC coverage.
 - Evaluated 50+ threat feeds, defined false positive reduction strategies, and implemented RAG pipelines + MCP agents enabling analysts to query threat intelligence via natural language.
-- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
 - Supported GDPR, CCPA/CPRA, and FinCEN compliance requirements across the platform.
 
+### A3 Tech Solultions LLC  
+*Cybersecurity Analyst* | Jun 2024 – Oct 2025
+- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
+- Automated log collection, SIEM ingestion, and compliance reporting workflows to satisfy SOC 2 audit requirements, reducing manual evidence collection time.
+- Collaborated with engineering teams to embed vulnerability management into CI/CD delivery pipelines and change management, lowering mean-time-to-remediation for critical findings.
+- Assisted in incident response exercises and troubleshooting misconfigured systems impacting logging and monitoring.
+
 ### Ambrosia Systems Inc  
-*Cybersecurity Analyst* | Sep 2024 – Oct 2025  
+*Cybersecurity Analyst* | Sep 2024 – Jun 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
 - Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
 - Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
@@ -57,7 +63,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Led root-cause analysis and SQL fixes to improve build stability to 98%.
 - Collaborated with technical support to resolve production network and system incidents.
 
-### Benson Service  
+### Benson Service Private Limited
 *Software Engineer Intern* | Aug 2029 – Jul 2021  
 - Implemented API rate limiting and input validation mechanisms, improving application security and reducing exposure to common web threats including injection attacks and unauthorized requests.
 - Developed and maintained responsive web application components using HTML, CSS, JavaScript, and XAMPP with MySQL databases and REST APIs, supporting dynamic application functionality.
