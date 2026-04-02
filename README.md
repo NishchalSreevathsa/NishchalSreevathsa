@@ -28,15 +28,9 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Evaluated 50+ threat feeds, defined false positive reduction strategies, and implemented RAG pipelines + MCP agents enabling analysts to query threat intelligence via natural language.
 - Supported GDPR, CCPA/CPRA, and FinCEN compliance requirements across the platform.
 
-### A3 Tech Solultions LLC  
-*Cybersecurity Analyst* | Jun 2024 – Oct 2025
-- Built Python-driven CI/CD security pipeline integrations combining SAST, DAST, and dependency scanning tools, reducing exploitable vulnerabilities reaching production by 40%.
-- Automated log collection, SIEM ingestion, and compliance reporting workflows to satisfy SOC 2 audit requirements, reducing manual evidence collection time.
-- Collaborated with engineering teams to embed vulnerability management into CI/CD delivery pipelines and change management, lowering mean-time-to-remediation for critical findings.
-- Assisted in incident response exercises and troubleshooting misconfigured systems impacting logging and monitoring.
 
 ### Ambrosia Systems Inc  
-*Cybersecurity Analyst* | Sep 2024 – Jun 2025  
+*Cybersecurity Analyst* | Jul 2024 – Oct 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
 - Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
 - Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
