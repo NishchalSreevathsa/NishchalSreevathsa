@@ -67,6 +67,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 ---
 
 ## 🏅 Certifications
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/7b7f2d71-0cdb-4179-ae1d-5367737e34eb)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/faae3c28-4871-45b5-b8c1-c98e6782aea9)  
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/earner/earned/badge/2b779358-fbde-4dea-958a-90e056fd1d99)  
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/69a87c4f-bcee-4840-803b-298bc6ebf0c6)  
@@ -78,10 +79,13 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ## ⚡ Projects
 
+- [Cyber Evidence Annotator (MCP Agent)](https://github.com/NishchalSreevathsa/Cyber-Evidence-Annotator)  
+  Designed a secure, high-availability network using OSPF, DMZ, ASA Firewalls, IDS/IPS, VPNs, VLANs, and AI-based threat detection, improving uptime by 30%.
+  
 - [Fresh Connections Grocery Chain Networks](https://github.com/NishchalSreevathsa/FreshConnections-Grocery-chain-Networks)  
   Designed a secure, high-availability network using OSPF, DMZ, ASA Firewalls, IDS/IPS, VPNs, VLANs, and AI-based threat detection, improving uptime by 30%.
 
-- Hypervisor-Based Secure Windows Environment Simulation  
+- [Hypervisor-Based Secure Windows Environment Simulation](https://github.com/NishchalSreevathsa/Hypervisor-Based-Secure-Windows-Environment-Simulation)  
   Created and hardened a multi-tiered Windows environment with domain policies, WSUS, IIS, PowerShell, and NTFS security.
 
 - [Simulated Campus Network Penetration Testing](https://github.com/NishchalSreevathsa/Ethical_Hacking_Projects)  
