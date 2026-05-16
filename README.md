@@ -68,7 +68,8 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ## 🏅 Certifications
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/7b7f2d71-0cdb-4179-ae1d-5367737e34eb)
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/faae3c28-4871-45b5-b8c1-c98e6782aea9)  
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/faae3c28-4871-45b5-b8c1-c98e6782aea9)
+- [The School of AI – Extensive Agentic AI (EAG V2]
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/earner/earned/badge/2b779358-fbde-4dea-958a-90e056fd1d99)  
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/69a87c4f-bcee-4840-803b-298bc6ebf0c6)  
 - [Architecting with Google Compute Engine](https://www.coursera.org/account/accomplishments/specialization/6BTN9WKAM2G3)
@@ -80,8 +81,19 @@ I enjoy solving complex security challenges, building detection tools, and shari
 ## ⚡ Projects
 
 - [Cyber Evidence Annotator (MCP Agent)](https://github.com/NishchalSreevathsa/Cyber-Evidence-Annotator)  
-  Designed a secure, high-availability network using OSPF, DMZ, ASA Firewalls, IDS/IPS, VPNs, VLANs, and AI-based threat detection, improving uptime by 30%.
+  Autonomous MCP-driven AI agent using LLM reasoning to automate SOC workflows — evidence triage, IOC classification, and alert dissemination via Model Context Protocol.
   
+- [PrivacyShield Agent](https://github.com/NishchalSreevathsa/PrivacyShield-Agent)  
+  Local-first AI privacy assistant leveraging agentic AI and cognitive layers to audit web content for trackers, fingerprinting, and intrusive scripts without cloud dependency.
+
+- [Bounty Watch – Chrome Extension for Bug Bounty Discovery](https://github.com/NishchalSreevathsa/Bounty-Watch)  
+  Automated bug bounty program discovery via security.txt parsing and platform probes; surfaced live programs with badge indicators directly in the browser, cutting researcher manual discovery time by ~4 hours/week. Built with JavaScript/Chrome Extensions API and Python backend.
+- [PhishGuard Architect](https://github.com/NishchalSreevathsa/PhishGuard-Architect) 
+  Browser extension applying chain-of-thought LLM reasoning for analyst-grade URL risk assessment; significantly reduced false positive phishing alerts.
+
+- [NetScope Guardian](https://github.com/NishchalSreevathsa/netscope-guardian) 
+  Real-time URL/DOM risk analysis browser extension using FastAPI + Google Gemini; automated IOC classification and malicious domain detection.
+
 - [Fresh Connections Grocery Chain Networks](https://github.com/NishchalSreevathsa/FreshConnections-Grocery-chain-Networks)  
   Designed a secure, high-availability network using OSPF, DMZ, ASA Firewalls, IDS/IPS, VPNs, VLANs, and AI-based threat detection, improving uptime by 30%.
 
@@ -93,9 +105,6 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 - [IntelliHome IoT-Based Smart Living Automation](https://github.com/NishchalSreevathsa/Intellihome-Advancing-Smart-Living-through-IoT-Based-Home-Automation)  
   Architected an IoT smart home system that increased energy efficiency by 30% and reduced energy costs by 25%.
-
-- [Securing Cloud Infrastructure with AWS IAM](https://github.com/NishchalSreevathsa/Cloud-Security-Project)  
-  Developed scalable AWS IAM architecture for secure intern onboarding under least-privilege principles.
 
 ---
 
