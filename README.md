@@ -8,6 +8,8 @@ I enjoy solving complex security challenges, building detection tools, and shari
 ---
 
 ## 🎓 Education
+- **PHD in Cybersecurity** (Ongoing)
+   Old Dominion University 
 - **Master of Science in Cybersecurity of Networks**  
   University of New Haven - Dean Scholarship Recipient • TCOE Outstanding Service Award in Cybersecurity & Networks 
 - **Bachelor of Engineering in Information Science and Engineering**  
@@ -17,7 +19,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 ## 💼 Work Experience
 ### Amby, Inc (Surge.Build) 
-*Blockchain Security Engineer* | Nov 2025 – Present 
+*Blockchain Security Engineer* | Nov 2025 – Feb 2026
 - Owned end-to-end security for a Bitcoin-native credit line product spanning smart contracts, mobile apps, backend APIs, and cloud infrastructure across 3 production environments.
 - Audited smart contracts and remediated 10+ critical vulnerabilities — reentrancy flaws, logic errors, and access control bypasses — eliminating high-severity exploit paths before launch.
 - Designed and deployed Wazuh SIEM integrated with GCP, onboarding 25+ log sources across firewall, endpoint, and cloud layers to achieve full-stack network visibility.
