@@ -32,7 +32,7 @@ I enjoy solving complex security challenges, building detection tools, and shari
 
 
 ### Ambrosia Systems Inc  
-*Cybersecurity Analyst* | Jul 2024 – Oct 2025  
+*Cybersecurity Analyst Intern* | Sep 2024 – Jun 2025  
 - Built and tuned Splunk dashboards with optimized log parsing and correlation rules, improving anomaly detection and reducing false positive volume.  
 - Spearheaded STRIDE threat modeling for Continuous Glucose Monitoring (CGM) mobile apps and cloud-backend telemetry, identifying 15+ high-risk attack entry points.
 - Automated SIEM log ingestion and compliance reporting workflows, eliminating hours of manual evidence collection per SOC 2 audit cycle.
@@ -59,13 +59,6 @@ I enjoy solving complex security challenges, building detection tools, and shari
 - Led root-cause analysis and SQL fixes to improve build stability to 98%.
 - Collaborated with technical support to resolve production network and system incidents.
 
-### Benson Service Private Limited
-*Software Engineer Intern* | Aug 2019 – Jul 2021  
-- Implemented API rate limiting and input validation mechanisms, improving application security and reducing exposure to common web threats including injection attacks and unauthorized requests.
-- Developed and maintained responsive web application components using HTML, CSS, JavaScript, and XAMPP with MySQL databases and REST APIs, supporting dynamic application functionality.
-- Configured DNS records and domain settings for web application deployment, supporting reliable access and improving domain resolution and service availability.
-- Assisted in cloud-based application deployment and environment configuration, supporting development and testing workflows for multiple web application modules.
-- Conducted manual and regression testing across multiple release cycles, identifying critical defects prior to deployment and improving overall application stability.
 ---
 
 ## 🏅 Certifications
